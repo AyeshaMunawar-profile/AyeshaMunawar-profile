@@ -44,7 +44,7 @@ a {
 }
 
 ::selection {
-  background-color: $primary-color__1;
-  color: $neutral-color-off-white__0;
+  background-color: var(--primary-color__1);
+  color: var(--color-grey__-4);
 }
 
