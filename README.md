@@ -1,18 +1,47 @@
-### Hi there 👋
-I am a Software Engineer from Pakistan. I work in Javascript , React, Python and Django. 
+## Hi there! I'm Ayesha Munawar 👋
 
-Professional Github Account : https://github.com/AyeshaMunawar200
-<!--
-**AyeshaMunawar-profile/AyeshaMunawar-profile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Software Engineer | Frontend Specialist | AI & Data Enthusiast**
 
-Here are some ideas to get you started:
+### 🌟 About Me
+I'm a passionate **Front-end Engineer** with **5+ years of experience** specializing in **JavaScript, Angular, React, and Python**. I love building scalable, high-performance applications and working at the intersection of **technology, data, and business**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 **Currently @ Motive** | **Contributing to the Asset Tracking team** impacting clients like **Aramark, FedEx, and Halliburton**.
+
+🎓 **Software Engineering Graduate from NUST Pakistan**.
+
+🏆 **Winner of AWS All Builders Grant (2023 & 2024)** | Attended **AWS re:Invent 2024**
+
+💡 Passionate about **AI, Data Analytics, Sustainability, and Women in STEM**.
+
+### 🔥 Tech Stack & Tools
+
+- **Languages:** JavaScript (ES6+), TypeScript, Python
+- **Frontend:** React, Angular, D3.js, Tailwind CSS
+- **Backend:** Node.js, Express.js
+- **Databases:** MongoDB, PostgreSQL, Firebase
+- **Cloud & DevOps:** AWS (Amplify, Lambda, S3), Docker
+- **Testing:** Jest, Cypress, Jasmine
+- **Other Tools:** Git, Webpack, Retool, AWS Amplify Studio
+
+### 🌍 Projects & Work Highlights
+- **Smart Classroom using Ambient Intelligence** 🏫
+- **DIRBS (Device Identification, Registration & Blocking System) for PTA** 📲
+- **SMART for Qualcomm** 📡
+
+### 🎯 Interests
+- Data Science & AI 📊🤖
+- Business Analytics 📈
+- Circular Economy & Sustainability 🌱
+
+### 📚 Future Goals
+🔹 Pursuing a Master's in **Computer Science (AI, ML, Data Science)** or **Business Analytics**
+🔹 Fully funded scholarships for higher education while working full-time
+
+### 📫 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)  
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourgithub/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23E4405F.svg?style=for-the-badge&logo=web&logoColor=white)](https://yourportfolio.com/)
+
+---
+✨ *“Code. Learn. Innovate. Repeat.”*
+
